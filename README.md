@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/SeYeol00/"><img alt="Header" src="https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=250&section=header&text=Se-Yeol&fontSize=90&fontAlign=80&fontAlignY=0&rotate=16&animation=fadeIn&desc=Everyday%20Steady,%20but%20not%20Simple&desczSize=24&FontSize=50&descAlign=25&descAlignY=25">
-
+</div>
 
 # Se Yeol Park's Programming World :sparkling_heart:
 
@@ -12,7 +12,7 @@
 ## Skills
   
   
-</div>
+
 
 
 
