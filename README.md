@@ -5,8 +5,15 @@
 # Se Yeol Park's Programming World :sparkling_heart:
 
 ## Profile
+  <div align="center">
+    
   ![Gmail Badge](https://img.shields.io/badge/dmot0126@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)
-  ![Kookimin University Badge](https://img.shields.io/badge/Kookmin_University_Management_Information_Systems-004F9F?style=for-the-badge)
+  <br>
+  ![Kookmin University Badge](https://img.shields.io/badge/Kookmin_University_Management_Information_Systems-004F9F?style=for-the-badge)
+  <br>
+  ![Kookmin University Badge](https://img.shields.io/badge/Kookmin_University_Software-004F9F?style=for-the-badge)
+    
+  <div>
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeYeol00&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
