@@ -13,7 +13,7 @@
    
   ![Gmail Badge](https://img.shields.io/badge/dmot0126@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)
   <br>
-  ![Tistory Badge](https://img.shields.io/badge/박세열의_프로그래밍-000000?style=for-the-badge&logo=Tistory&logoColor=white)
+  <a href="https://park-se-yeol.tistory.com"><img src="https://img.shields.io/badge/박세열의_프로그래밍-000000?style=for-the-badge&logo=Tistory&logoColor=white">
   <br>
   ![Kookmin University Badge](https://img.shields.io/badge/Kookmin_University_Management_Information_Systems-004F9F?style=for-the-badge)
   <br>
