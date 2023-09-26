@@ -26,9 +26,7 @@
   <div dlign="center">
     
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeYeol00&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-    <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeYeol00&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-    <br>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dmot)](https://solved.ac/dmot)
   </div>
 
